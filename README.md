@@ -34,7 +34,7 @@ pip install jupyter
 jupyter notebook
 ```
 
-7. Run the commands in [generate.ipynb] to generate images.
+7. Run the commands in [NFT-Image-Generator-Modified.ipynb] to generate images.
 
 8. First time you run notebook, it will ask you to install ipykernel, accept this.
  
